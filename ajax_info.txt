@@ -1,0 +1,18 @@
+<h1>Panduan Menggunakan Web</h1>
+<br>
+<h4>
+Anda login sebagai user, 
+fitur yang terdapat pada web ini adalah
+<br>
+anda bisa melakukan CRU (Create, Read, Update)
+pada masakan yang anda upload
+<br>
+anda juga bisa meng-export resep user lain sebagai pdf
+<br>
+bisa melihat resep yang sudah ditambahkan user lain
+<br>
+dan yang terakhir anda bisa memberi komentar pada resep - resep yang terdapat pada web ini
+<br>
+</h4>
+<h1><p align="right">Terimakasih,<br>
+Selamat menulis Resep!:)</p></h1>

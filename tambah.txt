@@ -1,0 +1,20 @@
+<h1>Panduan Menggunakan Web Sebagai Admin</h1>
+<br>
+<h4>
+Anda login sebagai user, 
+fitur yang terdapat pada web ini adalah
+<br>
+anda bisa melakukan CRUD (Create, Read, Update, Delete)
+pada resep yang diupload pada website ini
+<br>
+untuk delete silahkan gunakan untuk menghapus resep user yang tidak sesuai
+<br>
+anda juga bisa meng-export resep user lain sebagai pdf
+<br>
+bisa melihat resep yang sudah ditambahkan user lain
+<br>
+dan yang terakhir anda bisa memberi komentar pada resep - resep yang terdapat pada web ini
+<br>
+</h4>
+<h1><p align="right">Terimakasih,<br>
+Gunakan dengan sebaik - baiknya sebagai admin</p></h1>
